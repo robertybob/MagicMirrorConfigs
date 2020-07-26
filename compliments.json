@@ -225,5 +225,17 @@
         "It's a stormy night, don't be scared"
     ],
     "night_alt_cloudy_windy" : [
-    ]    
+    ],
+        "....-10-31": [
+			"Happy Halloween!"
+		],
+    "....-12-25": [
+			"Merry Christmas!"
+		],
+    "....-10-02": [
+			"Happy Birthday To Robert!"
+		],
+    "....-09-22": [
+			"Happy Birthday To Alana!"
+		] 
 }
