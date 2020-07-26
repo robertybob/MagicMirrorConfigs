@@ -166,14 +166,12 @@
     "morning" : [
         "Good morning, sunshine!",
         "Who needs coffee when you have your smile?",
-        "Go get 'em, Tiger!",
-        "Take on the day you beautiful land mermaid you!",
-        "I love the smell of napalm in the morning",
-        "You are early today"
+        "Go get 'em, Tiger!"
     ],
     "afternoon" : [
         "Hitting your stride!",
         "You are making a difference!",
+        "Hang on in there, you're half-way through the day!"
         "You're more fun than bubble wrap!"
     ],
     "evening" : [
@@ -184,7 +182,8 @@
         "Sleep tight"
     ],
     "snow": [
-        "Snowball battle!"
+        "Snowball battle!",
+        "Be careful, it may be slippery out there!"
     ],
     "day_sunny" : [
         "Today is a sunny day",
@@ -205,8 +204,8 @@
     "showers" : [
         ],
     "rain" : [
-        "Take your umbrella with you",
-        "It's wet out there, drive safe!",
+        "You may need your waterproof coat",
+        "It's wet out there, drive safely",
         "It's rainy outside, but you brighten my day"
         ],
     "thunderstorm" : [
